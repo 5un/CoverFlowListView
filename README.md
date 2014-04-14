@@ -5,4 +5,4 @@ CoverFlowListView makes itunes-style coverflow available in Android with not jus
 
 Example:
 
-![Alt text](/doc/ss.png "Screenshot")
+![Alt text](doc/ss.png "Screenshot")
