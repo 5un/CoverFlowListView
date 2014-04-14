@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.asunnotthesun.android.coverflowdemo.MainActivity"
+    tools:ignore="MergeRootFrame" >
+    
+    <com.asunnotthesun.android.widget.coverflow.CoverFlowListView
+            android:id="@+id/listView1"
+            android:layout_width="match_parent"
+            android:layout_height="200dip"
+            android:paddingTop="20dip"
+            android:paddingBottom="20dip"
+            android:background="#11000000" />
+    
+    </LinearLayout>
+

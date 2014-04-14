@@ -1,0 +1,3 @@
+[submodule "HorizontalVariableListView"]
+	path = HorizontalVariableListView
+	url = git://github.com/sephiroth74/HorizontalVariableListView.git
